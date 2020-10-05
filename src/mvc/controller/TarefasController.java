@@ -13,7 +13,7 @@ public class TarefasController {
 	
 	 @RequestMapping("/")
 	 public String execute() {
-		 System.out.println("Lógica do MVC");
+		 System.out.println("Logica do MVC");
 		 return "info";
 	 }
 	 
